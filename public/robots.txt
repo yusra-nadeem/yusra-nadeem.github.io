@@ -1,0 +1,30 @@
+# Yusra Nadeem — Portfolio robots
+# https://www.robotstxt.org/
+
+User-agent: *
+Allow: /
+
+# Be explicit for the major bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+# Sitemap
+Sitemap: https://yusra-nadeem.github.io/sitemap.xml

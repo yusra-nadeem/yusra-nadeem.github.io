@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Yusra Nadeem — Page not found</title>
+    <meta http-equiv="refresh" content="0; url=/#/404" />
+    <link rel="canonical" href="/" />
+    <style>
+      html, body { margin: 0; height: 100%; background: #f7f5f1; color: #14110f; font-family: system-ui, -apple-system, sans-serif; }
+      @media (prefers-color-scheme: dark) { html, body { background: #0e0d0c; color: #f7f5f1; } }
+      main { display: grid; place-items: center; min-height: 100dvh; padding: 2rem; text-align: center; }
+      a { color: inherit; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <div>
+        <p style="opacity:.7;letter-spacing:.16em;text-transform:uppercase;font-size:.78rem;">404</p>
+        <h1 style="font-family: 'Fraunces', Georgia, serif; font-weight: 400; font-size: clamp(2rem, 6vw, 3rem); margin: .5rem 0 1rem;">Redirecting&hellip;</h1>
+        <p>If you are not redirected, <a href="/">return home</a>.</p>
+      </div>
+    </main>
+    <script>
+      // GitHub Pages SPA fallback: forward unknown paths to the hash router.
+      var path = location.pathname + location.search;
+      if (path && path !== '/') {
+        location.replace('/#' + path);
+      }
+    </script>
+  </body>
+</html>

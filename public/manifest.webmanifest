@@ -1,0 +1,22 @@
+{
+  "name": "Yusra Nadeem — Creative Coordinator & Digital Marketing Strategist",
+  "short_name": "Yusra Nadeem",
+  "description": "Portfolio of Yusra Nadeem — a Lahore-based Creative Coordinator and Digital Marketing Strategist with 3+ years leading content strategy, campaigns, and creative team coordination.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0c0b0a",
+  "theme_color": "#c4623d",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["portfolio", "marketing", "business"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
