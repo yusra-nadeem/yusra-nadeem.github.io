@@ -28,7 +28,7 @@ export const featuredReels: FeaturedReel[] = [
     year: '2026',
     role: 'Featured talent',
     accent: '#e88a64',
-    videoSrc: '/public/zlenso-2026-a.mp4'
+    videoSrc: '/zlenso-2026-a.mp4'
   },
   {
     id: 'zlenso-2026-b',
