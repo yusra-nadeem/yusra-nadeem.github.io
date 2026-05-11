@@ -45,6 +45,7 @@ export const featuredReels: FeaturedReel[] = [
     year: '2026',
     role: 'Talent + Strategy',
     accent: '#7d6f63',
+    videoSrc: '/IMG_9478.MOV'
   },
   {
     id: 'zlenso-2025',
