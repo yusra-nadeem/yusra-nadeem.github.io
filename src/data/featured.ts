@@ -61,6 +61,7 @@ export const featuredReels: FeaturedReel[] = [
     year: '2024',
     role: 'Featured talent',
     accent: '#8a5a8a',
+    videoSrc: '/IMG_0532.MP4'
   },
   {
     id: 'sangat-2024-b',
@@ -69,6 +70,7 @@ export const featuredReels: FeaturedReel[] = [
     year: '2024',
     role: 'Featured talent',
     accent: '#6f4f7d',
+    videoSrc: '/IMG_0533.MP4'
   },
   {
     id: 'sangat-2024-c',
@@ -77,6 +79,7 @@ export const featuredReels: FeaturedReel[] = [
     year: '2024',
     role: 'Featured talent',
     accent: '#5a3f6e',
+    videoSrc: '/IMG_0534.MP4'
   },
   {
     id: 'blue-youth-2024',
@@ -85,5 +88,6 @@ export const featuredReels: FeaturedReel[] = [
     year: '2024',
     role: 'Featured talent',
     accent: '#3f6e8a',
+    videoSrc: '/IMG_1548.MP4'
   },
 ];
