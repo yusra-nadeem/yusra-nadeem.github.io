@@ -37,7 +37,7 @@ export const featuredReels: FeaturedReel[] = [
     year: '2026',
     role: 'Featured talent',
     accent: '#c4623d',
-    videoSrc: '/Zlenso1.MP4'
+    videoSrc: '/Zlenso1.mp4'
   },
   {
     id: 'hybriddot-dvc-2026',
@@ -46,7 +46,7 @@ export const featuredReels: FeaturedReel[] = [
     year: '2026',
     role: 'Talent + Strategy',
     accent: '#7d6f63',
-    videoSrc: '/0512.MP4'
+    videoSrc: '/0512.mp4'
   },
   {
     id: 'zlenso-2025',
@@ -55,7 +55,7 @@ export const featuredReels: FeaturedReel[] = [
     year: '2025',
     role: 'Featured talent',
     accent: '#a36b48',
-    videoSrc: '/Zlenso2.MP4'
+    videoSrc: '/Zlenso2.mp4'
   },
   {
     id: 'sangat-2024-a',
