@@ -8,7 +8,7 @@ export const personal = {
   lastName: 'Nadeem',
   fullName: 'Yusra Nadeem',
   initials: 'YN',
-  roles: ['Creative Coordinator', 'Digital Marketing Strategist', 'Content Leader'],
+  roles: ['Social Media Manager', 'Digital Marketing Strategist', 'Content Leader'],
   tagline:
     'I shape brand stories, lead creative teams, and turn campaign ideas into measurable outcomes.',
   location: 'Lahore, Pakistan',
