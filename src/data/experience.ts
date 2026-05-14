@@ -10,18 +10,20 @@ export type ExperienceItem = {
 
 export const experience: ExperienceItem[] = [
   {
-    role: 'Creative Coordinator',
+    role: 'Social Media Manager',
     company: 'Hybriddot — Creative Agency',
     location: 'Lahore, Pakistan',
     start: 'Feb 2026',
     end: 'Present',
     current: true,
     bullets: [
-      'Provide strategic executive support to the Creative Head — overseeing budget allocation and procurement of creative resources for seamless campaign production.',
+      'Develop and maintain a monthly content calendar aligned with brand campaigns, cultural moments, and platform-specific best practices across Instagram, LinkedIn, TikTok, and other active channels.',
+      'Drive the full content ideation pipeline — from trend spotting and format selection to post-production feedback and final publishing — with full autonomy and zero handholding.',
       'Maintain a master deadline tracker across all active projects, reducing missed deadlines and improving on-time delivery rates across departments.',
       'Coordinate cross-functional flow between creative, content, videography, and digital teams — eliminating production bottlenecks.',
       'Schedule and publish content across platforms while monitoring engagement metrics and responding to community interactions.',
       'Lead trend research and competitive analysis to inform campaign ideation and keep content culturally current.',
+      'Monitor algorithm shifts and platform policy changes in real time, pivoting strategy proactively to protect reach and engagement before numbers drop.',
     ],
   },
   {
